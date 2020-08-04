@@ -1,0 +1,19 @@
+.form-container{
+    display: flex;
+    flex-direction: column;
+    border: 0.5px solid #4d4d4d71;
+    border-radius : 5px;
+    margin:5px;
+    padding: 5px 
+}
+
+.search-button {
+    margin-left : 10px
+}
+
+.search-input{
+    background-color:transparent;
+    border: none;
+    border-bottom: 1px solid red;
+    outline: none;
+}
